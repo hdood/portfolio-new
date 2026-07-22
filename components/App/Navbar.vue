@@ -53,7 +53,7 @@ const items = [
   //   path: "/articles",
   //   icon: "solar:document-add-outline",
   // },
-  { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
+  // { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
   // {
   //   name: "What's in my bag?",
   //   path: "/whats-in-my-bag",

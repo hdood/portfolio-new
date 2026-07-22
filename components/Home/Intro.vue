@@ -9,10 +9,7 @@
     <p class="text-gray-900 dark:text-gray-400">
       I'm Mahdi, I work as a software, product engineer and designer from
       Setif, Algeria. I specialize in building web applications and sites
-      using PHP, Laravel, Vue &amp; Livewire. I've procrastinated building this
-      website for years but finally it's here, I've carved out my own little
-      nook on the internet to share my silly experiments, nifty projects, and
-      thoughts (mostly about tech and design).
+      using PHP, Laravel, Vue &amp; Livewire.
     </p>
     <p class="text-gray-900 dark:text-gray-400">
       By day, I'm a Fullstack Developer freelancer, and
